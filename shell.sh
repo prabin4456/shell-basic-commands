@@ -10,3 +10,5 @@ cd /storage/emulated/0/
 ls
 bash shfile.sh
 # easy to run code tetmux shell
+chmod +x install.sh
+bash name.sh
