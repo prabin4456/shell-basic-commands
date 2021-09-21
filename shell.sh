@@ -3,7 +3,7 @@ nano name.sh
 echo "Hello World"
 ctrl X to save
 ls
-chmod +x name
+chmod +x name.sh
 bash name.sh
 ./name.sh
 # 2 file 
