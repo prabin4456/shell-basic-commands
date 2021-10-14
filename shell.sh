@@ -12,4 +12,5 @@ $ ls
 $ bash name.sh
 # easy to run code tetmux shell
 $ chmod +x install.sh
+$ bash install.sh
 $ bash name.sh
